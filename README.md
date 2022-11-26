@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShanthoshSivan](https://github.com/ShanthoshSivan)
 
-- 💬 Ask me about Networking **DHCP,DNS,IPv4,IPv6,NAT,VPN,DSL**
+- 💬 Ask me about Networking **OSI Reference Model,TCP Model,IPv4,IPv6,NAT,VPN,DSL**
 
 - 📫 How to reach me **shanthoshsivan14@gmail.com**
 
